@@ -1,13 +1,8 @@
-.topic-navigation {
-  display: flex;
 
-  .timeline-container .topic-timeline .timeline-controls {
-    margin-bottom: 0em;
-  }
 
-  .topic-navigation-outlet {
-    order: 1;
-    margin-left: 5px;
+
+
+
 
     .topic-next-button, .topic-next-button.btn .d-icon {
 
@@ -32,6 +27,6 @@
           background-color: $tertiary-medium;
         }
       }
-    }
-  }
-}
+
+
+
